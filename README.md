@@ -3,7 +3,7 @@
 💚 1996.08.21 <br>
 📞 010-3359-8185 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2esc2esch@gmail.com)](mailto:2esc2esch@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
