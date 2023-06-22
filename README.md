@@ -3,7 +3,7 @@
 💚 1996.08.21 <br>
 📞 010-3359-8185 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gugigugi92@naver.com)](mailto:@navergugigugi92.com) <span><a href="https://www.notion.so/724b466cfa8a46d6a63da4d9aed2b627"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gugigugi92@naver.com)](mailto:gugigugi92@naver.com) <span><a href="https://www.notion.so/724b466cfa8a46d6a63da4d9aed2b627"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
