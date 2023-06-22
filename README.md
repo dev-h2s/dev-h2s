@@ -30,7 +30,6 @@
 
 
 <div align=left>
-<img src="https://camo.githubusercontent.com/32dde90f2a44661e968f7f115178ebdb0d4c92612f1767d5c738ad3ef05b2a62/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f67696c73616e67266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d7768697465" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-h2s&amp;layout=compact&amp;langs_count=8&amp;theme=white" style="max-width: 100%;">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-h2s&show_icons=true">
 </div>
 
