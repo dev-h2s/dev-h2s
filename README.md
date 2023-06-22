@@ -30,7 +30,7 @@
 
 
 <div align=left>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-h2s&langs_count=10&layout=compact&theme=dark)](https://github.com/dev-h2s/dev-h2s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 <img src="https://github-readme-stats.vercel.app/api?username=dev-h2s&show_icons=true">
 </div>
 
